@@ -1,6 +1,6 @@
 {
   "$schema": "./node_modules/@angular/cli/lib/config/schema.json",
-  "version": 1, 
+  "version": 1,
   "newProjectRoot": "projects",
   "projects": {
     "ahorcado": {
@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "ahorcado"
+    }
+  },
+  "defaultProject": "ahorcado",
+  "cli": {
+    "analytics": "658cf847-c936-43d9-b03d-ddde6d19d8fb"
+  }
 }
